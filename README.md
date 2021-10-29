@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin Quach
-- 👀 I’m interested in writing Python/Typescript code (because they're the most intuitive) 
+- 👀 I’m mostly write Python/Typescript code (because I'm most familiar with them) 
 - 🌱 I’m currently studying software engineering at UC Irvine
 - 💞️ I’m looking to collaborate on anything from websites to mobile apps
 - 📫 You can reach me at justintq@uci.edu
